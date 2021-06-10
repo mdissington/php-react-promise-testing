@@ -1,22 +1,18 @@
 {
-    "name": "mdissington/react-promise-testing",
-    "description": "PHPUnit-based library for testing ReactPHP promises - testing PHP 7.4+ compatibility",
+    "name": "seregazhuk/react-promise-testing",
+    "description": "PHPUnit-based library for testing ReactPHP promises",
     "keywords": [
         "Testing",
         "ReactPHP",
         "promise",
         "test"
     ],
-    "homepage": "https://github.com/mdissington/php-react-promise-testing",
+    "homepage": "https://github.com/seregazhuk/php-react-promise-testing",
     "license": "MIT",
     "authors": [
         {
             "name": "Sergey Zhuk",
             "email": "seregazhuk88@gmail.com"
-        },
-        {
-            "name": "Martyn Dissington",
-            "email": "mdissington@gmail.com"
         }
     ],
     "require": {
